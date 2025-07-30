@@ -1,0 +1,15 @@
+
+#post-view{
+    width:100%;
+    height:500px;
+    /* background-color: darkorange; */
+    background-color: #ffffff;
+}
+
+@media all and (max-width: 720px) {
+    #post-view{
+        width:100%;
+        height:500px;
+        background-color: darkkhaki;
+    }
+}
