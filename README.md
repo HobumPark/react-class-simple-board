@@ -5,3 +5,5 @@
 <img width="1893" height="984" alt="캡처_2025_07_31_09_58_47_939" src="https://github.com/user-attachments/assets/76d55966-611f-494b-852a-2b4f9688a7d4" />
 
 <img width="1893" height="984" alt="캡처_2025_07_31_09_58_52_459" src="https://github.com/user-attachments/assets/205d08f6-811c-4eb2-9b71-685b36ca4eee" />
+
+[3.게시판 데이터 DB구축(DB갯수 늘리기)+파일첨부.txt](https://github.com/user-attachments/files/21520313/3.DB.DB.%2B.txt)
