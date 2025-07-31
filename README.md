@@ -1,3 +1,5 @@
+Simple DB CRUD
+
 <img width="1893" height="964" alt="캡처_2025_07_31_09_58_26_50" src="https://github.com/user-attachments/assets/950be94e-31fa-4fbf-8010-693fa663cad4" />
 
 <img width="1893" height="984" alt="캡처_2025_07_31_09_58_47_939" src="https://github.com/user-attachments/assets/dc3ae296-9ba0-4329-bc58-0ea8bf70739e" />
